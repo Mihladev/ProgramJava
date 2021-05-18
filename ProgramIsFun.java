@@ -1,3 +1,7 @@
+/*
+Author: Mihlali Totwana
+Student Number: 218283776
+*/
 import javax.swing.JOptionPane;
 
 public class ProgramIsFun {
